@@ -9,7 +9,7 @@ Recent Changes
 
 ### 2013-07-30 Version 1.100141
 
-This version includes fixes for an issue with uni1EE1, a Vietnamese character in all styles, improves hinting with both Windows and FreeType hints in Bold and Bold Italic styles by adjusting bars to 2px tall in 14px and 15px, and reworks family naming metadata to follow Windows GDI naming conventions. It is used in Google Fonts (http://www.google.com/fonts/specimen/Roboto) as of 2013-07-31
+This version includes fixes for an issue with uni1EE1, a Vietnamese character in all styles, improves hinting with both Windows and FreeType hints in Bold and Bold Italic styles by adjusting bars to 2px tall in 14px and 15px, and reworks family naming metadata to follow Windows GDI naming conventions. It is used in [Google Fonts](http://www.google.com/fonts/specimen/Roboto) as of 2013-07-31.
 
 
 License
