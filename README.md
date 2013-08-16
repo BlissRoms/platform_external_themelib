@@ -21,6 +21,6 @@ Roboto is available under the terms of the [Apache 2.0 License](http://www.apach
 Contributing
 ----------------
 
-Roboto was initiated as a project within Android, and now it is a discete project that is considered 'upstream' of Android. Due to this legacy, this project will never accept any contributions from anyone who hasn't agreed to the Android Contributor License Agreement. To do that, create an an account in http://android-review.googlesource.com and agree to the Android CLA.
+Roboto was initiated as a project within Android, and now it is a discete project that is considered 'upstream' of Android. Due to this legacy, this project will never accept any contributions from anyone who hasn't agreed to the Android Contributor License Agreement. To do that, create an account in http://android-review.googlesource.com and agree to the Android CLA.
 
 If you have signed the Android CLA and wish to make a direct contribution, please send a pull request.
