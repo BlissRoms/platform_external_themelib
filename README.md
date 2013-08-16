@@ -15,4 +15,12 @@ This version includes fixes for an issue with uni1EE1, a Vietnamese character in
 License
 ----------------
 
-Roboto is available under the terms of the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0.html). See the file [AUTHORS.txt](AUTHORS.txt) for copyright holders and [CONTRIBUTORS.txt](CONTRIBUTORS.txt) for named contributors. 
+Roboto is available under the terms of the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0.html). See the file [AUTHORS.txt](AUTHORS.txt) for copyright holders and [CONTRIBUTORS.txt](CONTRIBUTORS.txt) for named contributors.
+
+
+Contributing
+----------------
+
+Roboto was initiated as a project within Android, and now it is a discete project that is considered 'upstream' of Android. Due to this legacy, this project will never accept any contributions from anyone who hasn't agreed to the Android Contributor License Agreement. To do that, create an an account in http://android-review.googlesource.com and agree to the Android CLA.
+
+If you have signed the Android CLA and wish to make a direct contribution, please send a pull request.
