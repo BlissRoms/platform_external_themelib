@@ -25,11 +25,15 @@ filegroup {
 prebuilt_font {
     name: "Roboto-Regular.ttf",
     src: "Roboto-Regular.ttf",
+    // These symlinks are for backward compatibility.
+    symlinks: ["DroidSans.ttf"],
 }
 
 prebuilt_font {
     name: "Roboto-Bold.ttf",
     src: "Roboto-Bold.ttf",
+    // These symlinks are for backward compatibility.
+    symlinks: ["DroidSans-Bold.ttf"],
 }
 
 prebuilt_font {
