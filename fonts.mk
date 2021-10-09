@@ -13,5 +13,24 @@
 # limitations under the License.
 
 PRODUCT_PACKAGES := \
+    Roboto-Regular.ttf \
+    Roboto-Bold.ttf \
+    Roboto-Italic.ttf \
+    Roboto-BoldItalic.ttf \
+    Roboto-Black.ttf \
+    Roboto-BlackItalic.ttf \
+    Roboto-Light.ttf \
+    Roboto-LightItalic.ttf \
+    Roboto-Medium.ttf \
+    Roboto-MediumItalic.ttf \
     RobotoStatic-Regular.ttf \
-    Roboto-Regular.ttf
+    Roboto-Thin.ttf \
+    Roboto-ThinItalic.ttf \
+    RobotoCondensed-Regular.ttf \
+    RobotoCondensed-Bold.ttf \
+    RobotoCondensed-Italic.ttf \
+    RobotoCondensed-BoldItalic.ttf \
+    RobotoCondensed-Light.ttf \
+    RobotoCondensed-LightItalic.ttf \
+    RobotoCondensed-Medium.ttf \
+    RobotoCondensed-MediumItalic.ttf
